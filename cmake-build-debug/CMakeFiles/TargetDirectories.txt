@@ -1,0 +1,3 @@
+C:/Users/Jade Li/Downloads/Assignment 1z/cmake-build-debug/CMakeFiles/Assignment_1z.dir
+C:/Users/Jade Li/Downloads/Assignment 1z/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jade Li/Downloads/Assignment 1z/cmake-build-debug/CMakeFiles/rebuild_cache.dir
